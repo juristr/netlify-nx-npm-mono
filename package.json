@@ -10,5 +10,8 @@
   "description": "",
   "workspaces": [
     "apps/*"
-  ]
+  ],
+  "devDependencies": {
+    "nx": "20.1.3"
+  }
 }
