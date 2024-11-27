@@ -11,5 +11,7 @@
       "cache": true
     }
   },
-  "defaultBase": "main"
+  "defaultBase": "main",
+  "nxCloudId": "67479729b320693de30a5216",
+  "nxCloudUrl": "https://staging.nx.app"
 }
