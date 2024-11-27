@@ -1,0 +1,21 @@
+{
+  "name": "@myorg/ui-cards",
+  "version": "0.0.1",
+  "main": "dist/index.js",
+  "types": "dist/index.d.ts",
+  "scripts": {
+    "build": "tsc",
+    "clean": "rm -rf dist"
+  },
+  "dependencies": {
+    "@myorg/shared-text": "*",
+    "react": "^18.2.0"
+  },
+  "devDependencies": {
+    "@types/react": "^18.2.0",
+    "typescript": "^5.3.2"
+  },
+  "peerDependencies": {
+    "react": "^18.2.0"
+  }
+}

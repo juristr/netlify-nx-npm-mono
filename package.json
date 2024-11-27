@@ -9,7 +9,8 @@
   "license": "ISC",
   "description": "",
   "workspaces": [
-    "apps/*"
+    "apps/*",
+    "packages/*"
   ],
   "devDependencies": {
     "nx": "20.1.3"
