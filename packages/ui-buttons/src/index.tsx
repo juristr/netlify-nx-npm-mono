@@ -15,7 +15,7 @@ export const FancyButton: React.FC<FancyButtonProps> = ({
       onClick={onClick}
       style={{
         padding: "10px 20px",
-        borderRadius: "6px",
+        borderRadius: "9px",
         backgroundColor: "#4CAF50",
         color: "white",
         border: "none",
